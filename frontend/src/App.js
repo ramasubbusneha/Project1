@@ -1,9 +1,10 @@
+import Mainpage from "./Mainpage";
 
 
 function App() {
   return (
     <div className="App">
-      hello
+      <Mainpage/>
     </div>
   );
 }
